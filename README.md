@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on learning to use Ai to build basic applications.
+- 🌱 I’m currently learning about various types of Ai, including image generation.
+- 👯 I’m looking to collaborate on teaching high school students about coding and Ai
+- 💬 Ask me about photography!
+- ⚡ Fun fact: I love to do travel photography. Switzerland is my favorite country. We also have hosted 7 exchange students from 6 different countries. 
